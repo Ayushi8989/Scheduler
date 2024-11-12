@@ -1,0 +1,520 @@
+-------------------------- STATISTICS --------------------------
+
+Hard constraints satisfied: 100.00 %
+Soft constraints satisfied: 100.00 %
+
+Total empty space for all groups and all days: 1
+Max empty space for group in day: 1
+Average empty space for groups per week: 0.11
+
+Total empty space for all professor and all days: 14
+Max empty space for professor in day: 4
+Average empty space for professor per week: 0.88
+
+Free hour -> Tuesday: 16
+
+--------------------------- SCHEDULE ---------------------------
+
+Class 5
+professor: Sanjoy Pratihar 
+Subject: Formal Languages and Automata Theory 
+Groups: CSE-2 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Monday 11 12
+
+Class 48
+professor: Bapi Kar 
+Subject: ECC401 
+Groups: ECE-2 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Monday 13 14
+
+Class 4
+professor: Bhaskar Biswas 
+Subject: CSC413 
+Groups: CSE-2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 201 - cs
+Time: Tuesday 13 14 15
+
+Class 32
+professor: Anirban Lakshman 
+Subject: Probability and Statistics 
+Groups: CSE-1B 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Tuesday 13 14
+
+Class 39
+professor: Sanjay Chatterjee 
+Subject: CSC602 
+Groups: CSE-3 
+Type: T 
+Duration: 1 hour(s)
+Classroom: 302 
+Time: Thursday 16
+
+Class 25
+professor: Rinky Sha 
+Subject: ECC201 
+Groups: CSE-1A 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Tuesday 9 10
+
+Class 51
+professor: Bhaskar Biswas 
+Subject: CSC413 
+Groups: CSE-2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 201 - cs
+Time: Tuesday 9 10 11
+
+Class 0
+professor: Sanjay Chatterjee 
+Subject: CS837 
+Groups: CSE-4A 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Wednesday 9 10
+
+Class 50
+professor: Debashish Bera 
+Subject: Computer Networks 
+Groups: CSE-3 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Tuesday 14 15
+
+Class 47
+professor: SK Hafizul Islam 
+Subject: Operating Systems 
+Groups: CSE-2 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Wednesday 11 12
+
+Class 41
+professor: Bhaskar Biswas 
+Subject: CSC403 
+Groups: CSE-2 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Wednesday 9 10
+
+Class 46
+professor: Pratik C. 
+Subject: ECC602 
+Groups: ECE-3 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Thursday 14 15
+
+Class 9
+professor: Dalia Nandi 
+Subject: ECC402 
+Groups: ECE-2 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 305 
+Time: Monday 11 12
+
+Class 33
+professor: Pratik C. 
+Subject: CS864 
+Groups: CSE-4B 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Wednesday 11 12
+
+Class 14
+professor: SK Hafizul Islam 
+Subject: CS858 
+Groups: CSE-4B 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 305 
+Time: Wednesday 15 16
+
+Class 37
+professor: Imon Mukherjee 
+Subject: Data Structures and Algorithms 
+Groups: CSE-1A 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Tuesday 11 12
+
+Class 35
+professor: Anirban Lakshman 
+Subject: MAC201 
+Groups: CSE-1A 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Monday 11 12
+
+Class 29
+professor: Oishila B. 
+Subject: CSC201 
+Groups: ECE-1B 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Wednesday 9 10
+
+Class 15
+professor: Sanjoy Pratihar 
+Subject: Database Management 
+Groups: CSE-3 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Monday 12 13
+
+Class 24
+professor: Rinky Sha 
+Subject: ECC201 
+Groups: ECE-1B 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 305 
+Time: Monday 13 14
+
+Class 34
+professor: Anirban Lakshman 
+Subject: MAC201 
+Groups: CSE-1A 
+Type: T 
+Duration: 3 hour(s)
+Classroom: 305 
+Time: Wednesday 11 12 13
+
+Class 43
+professor: Sanjoy Pratihar 
+Subject: Database Management 
+Groups: CSE-3 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Monday 9 10
+
+Class 54
+professor: Debashish Bera 
+Subject: Computer Networks 
+Groups: ECE-3 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 201 - cs
+Time: Wednesday 12 13 14
+
+Class 49
+professor: ARA 
+Subject: ECC412 
+Groups: ECE-2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 301 - ece
+Time: Wednesday 12 13 14
+
+Class 27
+professor: Bhaskar Biswas 
+Subject: CS886 
+Groups: CSE-4A 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Monday 9 10
+
+Class 52
+professor: SK Hafizul Islam 
+Subject: Operating Systems 
+Groups: CSE-2 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Tuesday 12 13
+
+Class 53
+professor: Dalia Nandi 
+Subject: ECC402 
+Groups: ECE-2 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Tuesday 13 14
+
+Class 38
+professor: Rinky Sha 
+Subject: ECC201 
+Groups: ECE-1B 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Wednesday 11 12
+
+Class 42
+professor: Dalia Nandi 
+Subject: ECC601 
+Groups: ECE-3 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 305 
+Time: Tuesday 11 12
+
+Class 13
+professor: Imon Mukherjee 
+Subject: Cryptography and Network Security 
+Groups: CSE-3 
+Type: T 
+Duration: 1 hour(s)
+Classroom: G02 
+Time: Monday 11
+
+Class 11
+professor: Sanjay Chatterjee 
+Subject: CSC602 
+Groups: CSE-3 
+Type: T 
+Duration: 1 hour(s)
+Classroom: 302 
+Time: Tuesday 11
+
+Class 45
+professor: Sudeshna Mondal 
+Subject: Numerical Analysis 
+Groups: CSE-2 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Tuesday 14 15
+
+Class 1
+professor: ARA 
+Subject: ECC412 
+Groups: ECE-2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 301 - ece
+Time: Tuesday 14 15 16
+
+Class 22
+professor: Amit Ranjan Azad 
+Subject: ECC403 
+Groups: ECE-2 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Wednesday 15 16
+
+Class 23
+professor: Anirban Lakshman 
+Subject: MAC201 
+Groups: CSE-1A 
+Type: T 
+Duration: 3 hour(s)
+Classroom: 305 
+Time: Wednesday 9 10 11
+
+Class 18
+professor: Pratik C. 
+Subject: CS864 
+Groups: CSE-4B 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Monday 11 12
+
+Class 28
+professor: SK Hafizul Islam 
+Subject: CS858 
+Groups: CSE-4A 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Wednesday 11 12
+
+Class 36
+professor: Amit Ranjan Azad 
+Subject: ECC403 
+Groups: ECE-2 
+Type: L 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Wednesday 9 10
+
+Class 6
+professor: Bhaskar Biswas 
+Subject: CS886 
+Groups: CSE-4B 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Monday 13 14
+
+Class 8
+professor: SK Hafizul Islam 
+Subject: Operating Systems 
+Groups: CSE-2 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Wednesday 9 10
+
+Class 21
+professor: Bhaskar Biswas 
+Subject: CS886 
+Groups: CSE-4A 
+Type: T 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Wednesday 13 14
+
+Class 31
+professor: Rinky Sha 
+Subject: Digital Logic Design 
+Groups: ECE-1B 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 301 - ece
+Time: Wednesday 9 10 11
+
+Class 26
+professor: SP 
+Subject: CSC613 
+Groups: CSE-3 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 201 - cs
+Time: Wednesday 12 13 14
+
+Class 12
+professor: Debashish Bera 
+Subject: ECC404 
+Groups: ECE-2 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 305 
+Time: Thursday 14 15
+
+Class 2
+professor: SP 
+Subject: CSC613 
+Groups: CSE-3 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 201 - cs
+Time: Tuesday 12 13 14
+
+Class 3
+professor: Debashish Bera 
+Subject: Computer Networks 
+Groups: CSE-3 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Wednesday 15 16
+
+Class 17
+professor: Imon Mukherjee 
+Subject: Data Structures and Algorithms Lab 
+Groups: CSE-1A 
+Type: P 
+Duration: 3 hour(s)
+Classroom: G02 
+Time: Wednesday 12 13 14
+
+Class 19
+professor: Oishila B. 
+Subject: CSC201 
+Groups: ECE-1B 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 302 
+Time: Thursday 13 14
+
+Class 16
+professor: Pratik C. 
+Subject: Digital Signal Processing 
+Groups: ECE-3 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 201 - cs
+Time: Monday 9 10 11
+
+Class 55
+professor: Bhaskar Biswas 
+Subject: CSC403 
+Groups: CSE-2 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Monday 9 10
+
+Class 30
+professor: SK Hafizul Islam 
+Subject: CS858 
+Groups: CSE-4B 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 305 
+Time: Monday 11 12
+
+Class 7
+professor: Rinky Sha 
+Subject: ECC201 
+Groups: CSE-1A 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Monday 15 16
+
+Class 10
+professor: Sanjay Chatterjee 
+Subject: Machine Learning Lab 
+Groups: CSE-3 
+Type: P 
+Duration: 3 hour(s)
+Classroom: 201 - cs
+Time: Monday 9 10 11
+
+Class 20
+professor: Pratik C. 
+Subject: CS864 
+Groups: CSE-4B 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G02 
+Time: Tuesday 11 12
+
+Class 44
+professor: Anirban Lakshman 
+Subject: MAC201 
+Groups: CSE-1A 
+Type: T 
+Duration: 2 hour(s)
+Classroom: G01 
+Time: Monday 13 14
+
+Class 40
+professor: Oishila B. 
+Subject: Machine Learning 
+Groups: ECE-3 
+Type: L 
+Duration: 2 hour(s)
+Classroom: 305 
+Time: Tuesday 13 14

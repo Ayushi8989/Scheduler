@@ -1,0 +1,578 @@
+{
+	"Classrooms": {
+		"lecture": [
+			"G01",
+			"G02",
+			"302",
+			"305"
+		],
+		"cs-lab": [
+			"201"
+		],
+		"ece-lab": [
+			"301"
+		]
+	},
+	"Classes": [
+		{
+			"Subject": "Database Management",
+			"Type": "L",
+			"Professor": "Sanjoy Pratihar",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Database Management",
+			"Type": "T",
+			"Professor": "Sanjoy Pratihar",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Digital Signal Processing",
+			"Type": "P",
+			"Professor": "Pratik C.",
+			"Groups": [
+				"ECE-3"
+			],
+			"Allowed_Classrooms": "cs-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "CS858",
+			"Type": "L",
+			"Professor": "SK Hafizul Islam",
+			"Groups": [
+				"CSE-4A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Computer Networks",
+			"Type": "P",
+			"Professor": "Debashish Bera",
+			"Groups": [
+				"ECE-3"
+			],
+			"Allowed_Classrooms": "cs-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "Data Structures and Algorithms",
+			"Type": "L",
+			"Professor": "Imon Mukherjee",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Data Structures and Algorithms Lab",
+			"Type": "P",
+			"Professor": "Imon Mukherjee",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "3"
+		},
+		{
+			"Subject": "Probability and Statistics",
+			"Type": "L",
+			"Professor": "Anirban Lakshman",
+			"Groups": [
+				"CSE-1B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Digital Logic Design",
+			"Type": "P",
+			"Professor": "Rinky Sha",
+			"Groups": [
+				"ECE-1B"
+			],
+			"Allowed_Classrooms": "ece-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "Numerical Analysis",
+			"Type": "L",
+			"Professor": "Sudeshna Mondal",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Operating Systems",
+			"Type": "L",
+			"Professor": "SK Hafizul Islam",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Formal Languages and Automata Theory",
+			"Type": "L",
+			"Professor": "Sanjoy Pratihar",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC404",
+			"Type": "L",
+			"Professor": "Debashish Bera",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC401",
+			"Type": "L",
+			"Professor": "Bapi Kar",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Machine Learning Lab",
+			"Type": "P",
+			"Professor": "Sanjay Chatterjee",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "cs-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "Cryptography and Network Security",
+			"Type": "T",
+			"Professor": "Imon Mukherjee",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "1"
+		},
+		{
+			"Subject": "ECC602",
+			"Type": "L",
+			"Professor": "Pratik C.",
+			"Groups": [
+				"ECE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Machine Learning",
+			"Type": "L",
+			"Professor": "Oishila B.",
+			"Groups": [
+				"ECE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC601",
+			"Type": "L",
+			"Professor": "Dalia Nandi",
+			"Groups": [
+				"ECE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS864",
+			"Type": "L",
+			"Professor": "Pratik C.",
+			"Groups": [
+				"CSE-4B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS837",
+			"Type": "L",
+			"Professor": "Sanjay Chatterjee",
+			"Groups": [
+				"CSE-4A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS886",
+			"Type": "L",
+			"Professor": "Bhaskar Biswas",
+			"Groups": [
+				"CSE-4B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC201",
+			"Type": "T",
+			"Professor": "Rinky Sha",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "MAC201",
+			"Type": "T",
+			"Professor": "Anirban Lakshman",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CSC201",
+			"Type": "L",
+			"Professor": "Oishila B.",
+			"Groups": [
+				"ECE-1B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC201",
+			"Type": "T",
+			"Professor": "Rinky Sha",
+			"Groups": [
+				"ECE-1B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CSC403",
+			"Type": "T",
+			"Professor": "Bhaskar Biswas",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Operating Systems",
+			"Type": "T",
+			"Professor": "SK Hafizul Islam",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CSC413",
+			"Type": "P",
+			"Professor": "Bhaskar Biswas",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "cs-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "ECC403",
+			"Type": "L",
+			"Professor": "Amit Ranjan Azad",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC402",
+			"Type": "T",
+			"Professor": "Dalia Nandi",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC412",
+			"Type": "P",
+			"Professor": "ARA",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "ece-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "CSC613",
+			"Type": "P",
+			"Professor": "SP",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "cs-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "CSC602",
+			"Type": "T",
+			"Professor": "Sanjay Chatterjee",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "1"
+		},
+		{
+			"Subject": "Computer Networks",
+			"Type": "T",
+			"Professor": "Debashish Bera",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS886",
+			"Type": "T",
+			"Professor": "Bhaskar Biswas",
+			"Groups": [
+				"CSE-4A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS864",
+			"Type": "T",
+			"Professor": "Pratik C.",
+			"Groups": [
+				"CSE-4B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS858",
+			"Type": "L",
+			"Professor": "SK Hafizul Islam",
+			"Groups": [
+				"CSE-4B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "MAC201",
+			"Type": "T",
+			"Professor": "Anirban Lakshman",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "3"
+		}
+		,{
+			"Subject": "ECC201",
+			"Type": "T",
+			"Professor": "Rinky Sha",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "MAC201",
+			"Type": "T",
+			"Professor": "Anirban Lakshman",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CSC201",
+			"Type": "L",
+			"Professor": "Oishila B.",
+			"Groups": [
+				"ECE-1B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC201",
+			"Type": "T",
+			"Professor": "Rinky Sha",
+			"Groups": [
+				"ECE-1B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CSC403",
+			"Type": "T",
+			"Professor": "Bhaskar Biswas",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "Operating Systems",
+			"Type": "T",
+			"Professor": "SK Hafizul Islam",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CSC413",
+			"Type": "P",
+			"Professor": "Bhaskar Biswas",
+			"Groups": [
+				"CSE-2"
+			],
+			"Allowed_Classrooms": "cs-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "ECC403",
+			"Type": "L",
+			"Professor": "Amit Ranjan Azad",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC402",
+			"Type": "T",
+			"Professor": "Dalia Nandi",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "ECC412",
+			"Type": "P",
+			"Professor": "ARA",
+			"Groups": [
+				"ECE-2"
+			],
+			"Allowed_Classrooms": "ece-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "CSC613",
+			"Type": "P",
+			"Professor": "SP",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "cs-lab",
+			"Length": "3"
+		},
+		{
+			"Subject": "CSC602",
+			"Type": "T",
+			"Professor": "Sanjay Chatterjee",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "1"
+		},
+		{
+			"Subject": "Computer Networks",
+			"Type": "T",
+			"Professor": "Debashish Bera",
+			"Groups": [
+				"CSE-3"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS886",
+			"Type": "T",
+			"Professor": "Bhaskar Biswas",
+			"Groups": [
+				"CSE-4A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS864",
+			"Type": "T",
+			"Professor": "Pratik C.",
+			"Groups": [
+				"CSE-4B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "CS858",
+			"Type": "L",
+			"Professor": "SK Hafizul Islam",
+			"Groups": [
+				"CSE-4B"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "2"
+		},
+		{
+			"Subject": "MAC201",
+			"Type": "T",
+			"Professor": "Anirban Lakshman",
+			"Groups": [
+				"CSE-1A"
+			],
+			"Allowed_Classrooms": "lecture",
+			"Length": "3"
+		}
+	]
+}
